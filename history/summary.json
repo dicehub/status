@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 0,
     "timeWeek": 251,
     "timeMonth": 181,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-02": 12,
+      "2023-03-01": 59
     }
   },
   {
